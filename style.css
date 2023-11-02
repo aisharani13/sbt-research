@@ -1,0 +1,44 @@
+#boy .col:hover {
+    box-shadow: 5px 10px 5px rgb(66, 28, 190);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+}
+
+.fgh {
+    background-image: url(beautiful-view-of-farm-house-with-greenery-wallpaper.jpg);
+    height: 800px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.gh :hover {
+    color: blue;
+    box-shadow: 5px 10px 5px rgb(66, 28, 190);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+
+}
+
+.hg :hover {
+    box-shadow: 5px 10px 5px rgb(28, 190, 66);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+}
+
+.box {
+    border: 1px solid rgb(191, 191, 196);
+    transition: all 0.5s 0.1s;
+    filter: grayscale(100%);
+}
+
+.box:hover {
+    transform: translateY(-10px);
+    filter: grayscale(0%);
+}
+s
+.box h4,
+.box h5 {
+    color: rgb(207, 32, 12);
+}

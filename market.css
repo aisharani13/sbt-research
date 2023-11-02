@@ -1,0 +1,19 @@
+.gh :hover {
+    color: blue;
+    box-shadow: 5px 10px 5px rgb(66, 28, 190);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+
+}
+.jgj{
+    background-color: rgb(64, 15, 200);
+    color: white;
+}
+
+#myform{
+    border: 1px solid white;
+    padding: 5%;
+   }
+   #myform1{
+    padding: 10%;
+   }

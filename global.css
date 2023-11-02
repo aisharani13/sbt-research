@@ -1,0 +1,31 @@
+.gh :hover {
+    color: blue;
+    box-shadow: 5px 10px 5px rgb(66, 28, 190);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+
+}
+.df{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+.search2 a {
+    color:  rgb(246, 191, 10);
+    background-color: rgb(18, 6, 8);
+    padding: 9px 15px;
+    border: 2px solid  rgb(246, 191, 10);
+    border-radius: 5px;
+    text-decoration: none;
+}
+.search2 a:hover{
+        
+    background-color: rgb(246, 191, 10);
+    text-decoration: none;
+    color: rgb(18, 6, 8);
+
+}
+.bhj{
+    background-color: black;
+}

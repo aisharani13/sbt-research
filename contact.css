@@ -1,0 +1,15 @@
+.gh :hover {
+    color: blue;
+    box-shadow: 5px 10px 5px rgb(66, 28, 190);
+    transition: all 0.5s 0.01s ease-in-out;
+    transform: translateY(-20px);
+
+}
+.hb{
+    background-image: url(rs.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
